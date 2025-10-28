@@ -1,6 +1,3 @@
-# Шаблон docker для запуска проекта Symfony
-Минимальный docker контейнер для запуска проекта на фреймворке Symfony
-
 # Getting started
 ##  dev
 1. `HTTP_PORT=<HTTP_PORT> docker compose up --build`
